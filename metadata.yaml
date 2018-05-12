@@ -1,0 +1,43 @@
+_repo: The-Princess-and-the-Goblin_34339
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Jessie Willcox
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '7158'
+    url: http://www.gutenberg.org/2009/agents/7158
+    wikipedia: http://en.wikipedia.org/wiki/Jessie_Willcox_Smith
+covers:
+- cover_type: archival
+  image_path: 34339-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: The Princess and the Goblin is a beloved children's classic written by
+  George MacDonald. C.S. Lewis sites Macdonald as one of his inspirations. This gentle
+  story takes us to a simpler time and place where Princess Irene and her best friend
+  Curdie must save the kingdom from a evil Goblin plot. Join them as they outwit the
+  Goblins and save the day.
+gutenberg_issued: '2010-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Goblins -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Princesses -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+title: The Princess and the Goblin
+url: http://www.gutenberg.org/ebooks/34339
